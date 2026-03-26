@@ -12,9 +12,6 @@ Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones
 - **Automatización con IA**  
   Flujos con **LLMs y RAG** para soporte interno, generación de itinerarios automáticos con **AWS Textract** y modelos de lenguaje.  
 
-- **Optimización de sistemas**  
-  Implementación de referidos con pagos automáticos (+35% participación) y dashboards internos que mejoraron la productividad en un 30%.  
-
 - **Investigación en neurociencias**  
   Aplicación de **deep learning (CNN, transfer learning)** en imágenes médicas y bioseñales (EEG, EKG, EMG) para detección de patrones clínicos.  
 
