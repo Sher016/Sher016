@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sherlyn  
+# Sherlyn  
 
 Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones que integren **IA, automatización y experiencia de usuario**. Combino experiencia en desarrollo de aplicaciones web y móviles con proyectos de investigación en neurociencias y machine learning aplicado a datos médicos.  
 
