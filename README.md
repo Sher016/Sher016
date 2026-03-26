@@ -6,7 +6,7 @@ Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones
 ## 📂 Proyectos
 
 - [IA](https://github.com/Sher016/IA)  
-  Procesamiento de dataset de prueba ICFES para modelo de prediccón aplicando inteligencia artificial.  
+  Procesamiento de dataset de prueba ICFES y entrenamiento de diferentes modelos de prediccón aplicando machine learning.  
 
 - [RAG](https://github.com/Sher016/RAG)  
   Implementación de un flujo de **Retrieval-Augmented Generation** para responder preguntas con modelos de lenguaje.  
