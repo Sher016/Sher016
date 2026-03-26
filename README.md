@@ -18,7 +18,7 @@ Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones
   Aplicación en **Python** (Django) para inventario médico.      
 
 - [gato](https://github.com/Sher016/gato)  
-  Proyecto con notebooks de procesamiento de imágenes de médicass.  
+  Proyecto con notebooks de procesamiento de imágenes médicass.  
 
 - [Sher016.github.io](https://github.com/Sher016/Sher016.github.io)  
   Página web para cursos de clases.  
