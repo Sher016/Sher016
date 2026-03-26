@@ -3,8 +3,27 @@
 Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones que integren **IA, automatización y experiencia de usuario**. Combino experiencia en desarrollo de aplicaciones web y móviles con proyectos de investigación en neurociencias y machine learning aplicado a datos médicos.  
 
 ---
+## 📂 Proyectos
 
-## 🚀 Proyectos y contribuciones  
+- [IA](https://github.com/Sher016/IA)  
+  Procesamiento de dataset de prueba ICFES para modelo de prediccón aplicando inteligencia artificial.  
+
+- [RAG](https://github.com/Sher016/RAG)  
+  Implementación de un flujo de **Retrieval-Augmented Generation** para responder preguntas con modelos de lenguaje.  
+
+- [LIS-Sofware](https://github.com/Sher016/LIS-Sofware)  
+  Proyecto en **Vue.js** para gestión de software de laboratorio.  
+
+- [PF-ing-de-sofware](https://github.com/Sher016/PF-ing-de-sofware)  
+  Aplicación en **Python** (Django) para inventario médico.      
+
+- [gato](https://github.com/Sher016/gato)  
+  Proyecto con notebooks de procesamiento de imágenes de médicass.  
+
+- [Sher016.github.io](https://github.com/Sher016/Sher016.github.io)  
+  Página web para cursos de clases.  
+
+## 🚀 Experiencia
 
 - **Aplicaciones web y móviles**  
   Desarrollo con **React, React Native, Retool y Webflow**, incluyendo integraciones nativas en iOS/Android.  
