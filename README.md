@@ -45,7 +45,7 @@ Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones
   Clasificación de patologías neurológicas, segmentación de imágenes con **MONAI** y detección de Parkinson a partir de datasets médicos.  
 
 - **Colaboración académica**  
-  Integrante de semillero de investigación en neurociencias y monitora de instrumentación en la Facultad de Medicina.  
+  Integrante de semillero de investigación en neurociencias y monitora de instrumentación en la Facultad de ingenieria.  
 
 ---
 
