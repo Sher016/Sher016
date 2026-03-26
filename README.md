@@ -21,7 +21,14 @@ Soy **Ingeniera Bioingeniera y Desarrolladora**, apasionada por crear soluciones
   Proyecto con notebooks de procesamiento de imágenes médicass.  
 
 - [Sher016.github.io](https://github.com/Sher016/Sher016.github.io)  
-  Página web para cursos de clases.  
+  Página web para cursos de clases.
+
+- [Neural-Network-Based-Brain-Activity-Analysis](https://github.com/Sher016/Neural-Network-Based-Brain-Activity-Analysis)  
+  Análisis avanzado de actividad cerebral con redes neuronales aplicado a señales EEG, buscando identificar patrones sutiles y diferencias entre grupos de estudio.  
+
+- [Comparison-of-control-and-sick-patients](https://github.com/Sher016/Comparison-of-control-and-sick-patients)  
+  Filtrado y comparación de señales cerebrales entre pacientes control y pacientes con Alzheimer.  
+  
 
 ## 🚀 Experiencia
 
